@@ -4,12 +4,12 @@ For the Management of NAV App Storage to store NAV Deployment files From/To Loca
 ## Table of Contents
 
 * [Prerequisites](#Prerequisites)
-* [Running the tests](#Running the tests)
+* [Running the tests](#Running-the-tests)
 
 ## Prerequisites:
 Must be connected to Audibene Network through LAN, OfficeWIFI, VPN or From Servers
 
-## Running the tests
+## Running-the-tests:
 
 Below are the examples to Run /Use these Scripts:
 1. To Import Module:
